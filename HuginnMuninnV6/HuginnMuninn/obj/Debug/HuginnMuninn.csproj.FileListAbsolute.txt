@@ -1,0 +1,108 @@
+C:\Users\FORTIN\Documents\SharpDevelop Projects\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.csprojResolveAssemblyReference.cache
+C:\Users\FORTIN\Documents\SharpDevelop Projects\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.csproj.AssemblyReference.cache
+C:\Users\FORTIN\Documents\SharpDevelop Projects\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.csproj.CoreCompileInputs.cache
+D:\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.csproj.AssemblyReference.cache
+D:\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.Form_Connexion.resources
+D:\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.MainForm.resources
+D:\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.csproj.GenerateResource.cache
+D:\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.csproj.CoreCompileInputs.cache
+D:\HuginnMuninn\HuginnMuninn\bin\Debug\HuginnMuninn.exe.config
+D:\HuginnMuninn\HuginnMuninn\bin\Debug\HuginnMuninn.exe
+D:\HuginnMuninn\HuginnMuninn\bin\Debug\HuginnMuninn.pdb
+D:\HuginnMuninn\HuginnMuninn\bin\Debug\MySql.Data.dll
+D:\HuginnMuninn\HuginnMuninn\bin\Debug\Google.Protobuf.dll
+D:\HuginnMuninn\HuginnMuninn\bin\Debug\ZstdNet.dll
+D:\HuginnMuninn\HuginnMuninn\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\HuginnMuninn\HuginnMuninn\bin\Debug\BouncyCastle.Crypto.dll
+D:\HuginnMuninn\HuginnMuninn\bin\Debug\Ubiety.Dns.Core.dll
+D:\HuginnMuninn\HuginnMuninn\bin\Debug\System.Buffers.dll
+D:\HuginnMuninn\HuginnMuninn\bin\Debug\K4os.Compression.LZ4.dll
+D:\HuginnMuninn\HuginnMuninn\bin\Debug\K4os.Hash.xxHash.dll
+D:\HuginnMuninn\HuginnMuninn\bin\Debug\MySql.Data.xml
+D:\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.csproj.SuggestedBindingRedirects.cache
+D:\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.exe.config
+D:\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.csproj.CopyComplete
+D:\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.exe
+D:\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.pdb
+D:\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.FAuteur.resources
+D:\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.Properties.Resources.resources
+C:\Users\fortin\Desktop\HuginnMuninn\HuginnMuninn\bin\Debug\HuginnMuninn.exe.config
+C:\Users\fortin\Desktop\HuginnMuninn\HuginnMuninn\bin\Debug\HuginnMuninn.exe
+C:\Users\fortin\Desktop\HuginnMuninn\HuginnMuninn\bin\Debug\HuginnMuninn.pdb
+C:\Users\fortin\Desktop\HuginnMuninn\HuginnMuninn\bin\Debug\Google.Protobuf.dll
+C:\Users\fortin\Desktop\HuginnMuninn\HuginnMuninn\bin\Debug\ZstdNet.dll
+C:\Users\fortin\Desktop\HuginnMuninn\HuginnMuninn\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\fortin\Desktop\HuginnMuninn\HuginnMuninn\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\fortin\Desktop\HuginnMuninn\HuginnMuninn\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\fortin\Desktop\HuginnMuninn\HuginnMuninn\bin\Debug\System.Buffers.dll
+C:\Users\fortin\Desktop\HuginnMuninn\HuginnMuninn\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\fortin\Desktop\HuginnMuninn\HuginnMuninn\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\fortin\Desktop\HuginnMuninn\HuginnMuninn\bin\Debug\MySql.Data.xml
+C:\Users\fortin\Desktop\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.csproj.AssemblyReference.cache
+C:\Users\fortin\Desktop\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.csproj.SuggestedBindingRedirects.cache
+C:\Users\fortin\Desktop\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.exe.config
+C:\Users\fortin\Desktop\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.FAuteur.resources
+C:\Users\fortin\Desktop\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.Form_Connexion.resources
+C:\Users\fortin\Desktop\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.MainForm.resources
+C:\Users\fortin\Desktop\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.Properties.Resources.resources
+C:\Users\fortin\Desktop\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.csproj.GenerateResource.cache
+C:\Users\fortin\Desktop\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.csproj.CoreCompileInputs.cache
+C:\Users\fortin\Desktop\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMu.C04B9B8B.Up2Date
+C:\Users\fortin\Desktop\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.exe
+C:\Users\fortin\Desktop\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.pdb
+C:\Users\fortin\Desktop\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.FAddAuteur.resources
+U:\Espace privé\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.csproj.AssemblyReference.cache
+U:\Espace privé\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.csproj.SuggestedBindingRedirects.cache
+U:\Espace privé\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.exe.config
+U:\Espace privé\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.F2Champs.resources
+U:\Espace privé\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.FAuteur.resources
+U:\Espace privé\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.Form_Connexion.resources
+U:\Espace privé\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.FAddAuteur.resources
+U:\Espace privé\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.MainForm.resources
+U:\Espace privé\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.Properties.Resources.resources
+U:\Espace privé\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.csproj.GenerateResource.cache
+U:\Espace privé\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.csproj.CoreCompileInputs.cache
+U:\Espace privé\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.exe
+U:\Espace privé\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.pdb
+U:\Espace privé\HuginnMuninn\HuginnMuninn\bin\Debug\HuginnMuninn.exe.config
+U:\Espace privé\HuginnMuninn\HuginnMuninn\bin\Debug\HuginnMuninn.exe
+U:\Espace privé\HuginnMuninn\HuginnMuninn\bin\Debug\HuginnMuninn.pdb
+U:\Espace privé\HuginnMuninn\HuginnMuninn\bin\Debug\MySql.Data.dll
+U:\Espace privé\HuginnMuninn\HuginnMuninn\bin\Debug\Google.Protobuf.dll
+U:\Espace privé\HuginnMuninn\HuginnMuninn\bin\Debug\ZstdNet.dll
+U:\Espace privé\HuginnMuninn\HuginnMuninn\bin\Debug\K4os.Compression.LZ4.Streams.dll
+U:\Espace privé\HuginnMuninn\HuginnMuninn\bin\Debug\BouncyCastle.Crypto.dll
+U:\Espace privé\HuginnMuninn\HuginnMuninn\bin\Debug\Ubiety.Dns.Core.dll
+U:\Espace privé\HuginnMuninn\HuginnMuninn\bin\Debug\System.Buffers.dll
+U:\Espace privé\HuginnMuninn\HuginnMuninn\bin\Debug\K4os.Compression.LZ4.dll
+U:\Espace privé\HuginnMuninn\HuginnMuninn\bin\Debug\K4os.Hash.xxHash.dll
+U:\Espace privé\HuginnMuninn\HuginnMuninn\bin\Debug\MySql.Data.xml
+U:\Espace privé\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.FTypeLivre.resources
+U:\Espace privé\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.csproj.CopyComplete
+E:\HuginnMuninn\HuginnMuninn\bin\Debug\HuginnMuninn.exe.config
+E:\HuginnMuninn\HuginnMuninn\bin\Debug\HuginnMuninn.exe
+E:\HuginnMuninn\HuginnMuninn\bin\Debug\HuginnMuninn.pdb
+E:\HuginnMuninn\HuginnMuninn\bin\Debug\Google.Protobuf.dll
+E:\HuginnMuninn\HuginnMuninn\bin\Debug\ZstdNet.dll
+E:\HuginnMuninn\HuginnMuninn\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\HuginnMuninn\HuginnMuninn\bin\Debug\BouncyCastle.Crypto.dll
+E:\HuginnMuninn\HuginnMuninn\bin\Debug\Ubiety.Dns.Core.dll
+E:\HuginnMuninn\HuginnMuninn\bin\Debug\System.Buffers.dll
+E:\HuginnMuninn\HuginnMuninn\bin\Debug\K4os.Compression.LZ4.dll
+E:\HuginnMuninn\HuginnMuninn\bin\Debug\K4os.Hash.xxHash.dll
+E:\HuginnMuninn\HuginnMuninn\bin\Debug\MySql.Data.xml
+E:\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.csproj.AssemblyReference.cache
+E:\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.csproj.SuggestedBindingRedirects.cache
+E:\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.exe.config
+E:\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.F2Champs.resources
+E:\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.FAuteur.resources
+E:\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.Form_Connexion.resources
+E:\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.FAddAuteur.resources
+E:\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.FTypeLivre.resources
+E:\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.MainForm.resources
+E:\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.Properties.Resources.resources
+E:\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.csproj.GenerateResource.cache
+E:\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.csproj.CoreCompileInputs.cache
+E:\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMu.C04B9B8B.Up2Date
+E:\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.exe
+E:\HuginnMuninn\HuginnMuninn\obj\Debug\HuginnMuninn.pdb
