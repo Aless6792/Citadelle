@@ -3,9 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|HuginnMuninnv6||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|c:\\users\\a.pradeaupaulin\\documents\\huginnmuninn\\huginnmuninnv6\\huginnmuninn\\classes\\typelivre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|solutionrelative:huginnmuninn\\classes\\typelivre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -42,6 +39,9 @@
       "RelativeMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|solutionrelative:huginnmuninn\\faddauteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|HuginnMuninnv6||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\huginnmuninn\\faddlivre.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|solutionrelative:huginnmuninn\\faddlivre.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -52,9 +52,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\huginnmuninn\\fauteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|solutionrelative:huginnmuninn\\fauteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BB715BB-5FA1-4C12-9D42-23E0703DBFD9}|HuginnMuninn\\HuginnMuninnv6.csproj|c:\\users\\a.pradeaupaulin\\documents\\huginnmuninn\\huginnmuninnv6\\huginnmuninn\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -64,11 +61,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "FAddLivre.cs [Design]",
               "DocumentMoniker": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\FAddLivre.cs",
               "RelativeDocumentMoniker": "HuginnMuninn\\FAddLivre.cs",
@@ -79,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "FAddLivre.cs",
               "DocumentMoniker": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\FAddLivre.cs",
               "RelativeDocumentMoniker": "HuginnMuninn\\FAddLivre.cs",
@@ -93,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "FAddAuteur.cs",
               "DocumentMoniker": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\FAddAuteur.cs",
               "RelativeDocumentMoniker": "HuginnMuninn\\FAddAuteur.cs",
@@ -107,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "FAddAuteur.cs [Design]",
               "DocumentMoniker": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\FAddAuteur.cs",
               "RelativeDocumentMoniker": "HuginnMuninn\\FAddAuteur.cs",
@@ -118,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "FLivre.cs",
               "DocumentMoniker": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\FLivre.cs",
               "RelativeDocumentMoniker": "HuginnMuninn\\FLivre.cs",
@@ -131,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Auteur.cs",
               "DocumentMoniker": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\Classes\\Auteur.cs",
               "RelativeDocumentMoniker": "HuginnMuninn\\Classes\\Auteur.cs",
@@ -144,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Livre.cs",
               "DocumentMoniker": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\Classes\\Livre.cs",
               "RelativeDocumentMoniker": "HuginnMuninn\\Classes\\Livre.cs",
@@ -158,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "FAuteur.cs",
               "DocumentMoniker": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\FAuteur.cs",
               "RelativeDocumentMoniker": "HuginnMuninn\\FAuteur.cs",
@@ -170,12 +167,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TypeLivre.cs",
               "DocumentMoniker": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\Classes\\TypeLivre.cs",
               "RelativeDocumentMoniker": "HuginnMuninn\\Classes\\TypeLivre.cs",
-              "ToolTip": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\Classes\\TypeLivre.cs*",
-              "RelativeToolTip": "HuginnMuninn\\Classes\\TypeLivre.cs*",
+              "ToolTip": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\Classes\\TypeLivre.cs",
+              "RelativeToolTip": "HuginnMuninn\\Classes\\TypeLivre.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "OverriddenGroupName": "HuginnMuninn\\Classes",
@@ -188,15 +185,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "HuginnMuninnv6",
               "DocumentMoniker": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\HuginnMuninnv6.csproj",
               "RelativeDocumentMoniker": "HuginnMuninn\\HuginnMuninnv6.csproj",
               "ToolTip": "C:\\Users\\a.pradeaupaulin\\Documents\\HuginnMuninn\\HuginnMuninnV6\\HuginnMuninn\\HuginnMuninnv6.csproj",
               "RelativeToolTip": "HuginnMuninn\\HuginnMuninnv6.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-07-03T15:55:27.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T15:55:27.633Z"
             },
             {
               "$type": "Document",
