@@ -78,7 +78,10 @@ namespace HuginnMuninn.Classes
             List<Etat> Es = new List<Etat>();
 
             string req = "SELECT * FROM Etat";
-            Global.conn.Open();
+            if (Global.conn.Equals("Closed"))
+            {
+                Global.conn.Open();
+            }
             MySqlCommand stmt = new MySqlCommand(req, Global.conn);
             MySqlDataReader rdr = stmt.ExecuteReader();
             while (rdr.Read())
