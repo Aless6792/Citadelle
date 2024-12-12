@@ -42,6 +42,7 @@ namespace HuginnMuninn.Classes
             Global.conn.Open();
             MySqlCommand stmt = new MySqlCommand(req, Global.conn);
 			stmt.ExecuteNonQuery();
+            Global.conn.Close();
 		}
 
 		public void Retrieve(int id)
