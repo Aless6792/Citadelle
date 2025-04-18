@@ -30,20 +30,6 @@ namespace HuginnMuninn.Classes
         private List<Auteur> lesAuteurs = new List<Auteur>();
         private List<Genre> lesGenres = new List<Genre>();
 
-        /*    prix calculé en fonction de :
-              prix initial
-              l'état
-              TypeLivre
-              datePublication (en fonction de l'édition)        
-
-              + si beau livre
-              hauteur
-              largeur
-              poids
-
-              Faire idem sur rachat de beaux livres / 4 pour la revente
-       */
-
         public Livre() { }
         public Livre(int id, string ti, string isbn, int nbP, int pds, DateTime dPP, DateTime dP, float pI, DateTime dES, DateTime dSS, float h, float l, string c, string syn, TypeLivre lT, Devise d, Sortie s, Etat et, Editeur ed, List<Auteur> ats, List<Genre> grs)
         {
@@ -233,7 +219,6 @@ namespace HuginnMuninn.Classes
                 l.SetIsbn(rder["isbn"].ToString());
                 l.SetNombrePages(int.Parse(rder["nombrePages"].ToString()));
                 l.SetPoids(int.Parse(rder["poids"].ToString()));
-               // aertyu = rdr["datePremierePublication"].ToString();
                 l.SetDatePremierePublication(DateTime.Parse(rder["datePremierePublication"].ToString(), CultureInfo.CurrentCulture));
                 l.SetDatePublication(DateTime.Parse(rder["datePublication"].ToString(), CultureInfo.CurrentCulture));
                 l.SetPrixInitial(float.Parse(rder["prixInitial"].ToString()));
@@ -300,44 +285,6 @@ namespace HuginnMuninn.Classes
 
             Global.conn.Close();
             return id;
-
-
-            /* public float CalculPrixVente()
-             { 
-                 float prix;
-                 float coeffDevise;
-                 int coeff;
-
-                 switch (laDevise.GetDevise())
-                 {
-                     case "F" :
-                         coeffDevise = 6.55957f;
-                         break;
-                     case "AF":
-                         coeffDevise = 655.957f;
-                         break;
-                     default:
-                         coeffDevise = 1.0f;
-                         break;
-                 }
-
-                 if (leType.GetLibelle() == "Beau Livre")
-                 {
-                     coeff = 3;
-                 }
-                 else
-                 {
-                     coeff = 1;
-                 }
-
-                 prix = this.prixInitial / coeffDevise * coeff;
-
-                 return prix;
-             }*/
-
         }
-
-
-
     }
 }
